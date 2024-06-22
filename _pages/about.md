@@ -1,49 +1,90 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Farzad Nadiri - Robotics and AI Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my personal academic page. I am Farzad Nadiri, a dedicated roboticist with a strong passion for computer vision, localization, and perception in robotics. My work primarily focuses on humanoid soccer robots, multi-agent systems, and autonomous robots. This website showcases my academic achievements, research, publications, and professional experiences.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Work Experience
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Quartech, Vancouver, Canada**  
+*Senior Software Engineer*  
+*Oct 2023 - Present*  
+- Developed a privacy-focused proposal writer assistant using the Facebook LLaMA2 70B model.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Pacific Blue Cross, Vancouver, Canada**  
+*Senior Software Engineer*  
+*Jan 2023 - Jul 2023*  
+- Enhanced software project performance through architectural refactoring and automated testing.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Metalive, Tehran, Iran**  
+*Software Engineer*  
+*Dec 2020 - Dec 2022*  
+- Developed a multi-role telemedicine application with WebRTC video calls and electronic prescriptions.
+- Created a VOD media streaming server and HLS-based video converter for a religious content producer.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Parsertebat, Tehran, Iran**  
+*Software Engineer*  
+*Sep 2018 - Dec 2020*  
+- Led the design and development of a horse racing betting software for the Iran Equestrian Federation, resulting in $32 million annual revenue.
 
-**Markdown generator**
+## Education
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Master of Computer Science - Artificial Intelligence and Robotics**  
+*Azad University, Science & Research Branch, Tehran, Iran*  
+*Jan 2020*  
+- Thesis: Enhancing Map-Based Localization in Humanoid Soccer Robots using IMU Data and Bird's Eye View Perspectives.  
+  [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Bachelor of Engineering - Information Technology**  
+*Azad University, Parand Branch, Tehran, Iran*  
+*Dec 2014*  
+- Final Project: Creating a Modular Software Framework for Humanoid Soccer Robots.  
+  [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Research Experience
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Autonomous Robots Lab, Tehran, Iran**  
+*Researcher*  
+*Jan 2011 - May 2016*  
+- Developed humanoid robots for RoboCup competitions, achieving multiple championships.
+- Designed and implemented vision modules, localization systems, and multi-robot communication protocols.
+- Created a ball-tracking module using PID control for robot soccer.
+- Enhanced localization accuracy with IMU data and inverse perspective mapping.
+
+## Publications
+
+- **Parand Humanoid TeenSize Team Description Paper**, RoboCup 2015 Humanoid Teen-Size Robot League.
+- **Team Parand Kid/Teen Humanoid Team Description Paper**, RoboCup2016 Humanoid Kid/Teen Size Robot League.
+- **Team Parand Teen Humanoid Team Description Paper**, RoboCup2017 Humanoid Kid/Teen Size Robot League.
+- **Team Parand Teen-Size Humanoid Team Description Paper**, RoboCup2018 Humanoid Teen Size Robot League.
+
+## Honours & Awards
+
+- **National Elites Foundation of Iran Support**  
+  *Jan 2020 - Jan 2022*
+- **Referee Committee Member**  
+  *ICT Challenge, Sharif University of Technology, Jul 2020*
+- **RoboCup Competitions**  
+  - 1st place, RoboCup 2015, Hefei, China
+  - 3rd place, RoboCup 2014, João Pessoa, Brazil
+  - Championships, IranOpen 2013, 2015, Tehran, Iran
+
+## Skills
+
+**Programming Languages:**  
+C++, Python, MATLAB, Java, JavaScript, Ruby
+
+**Technical Software:**  
+Simulink, LabView, OpenCV, TensorFlow, PyTorch
+
+**Embedded Systems:**  
+Arduino, Raspberry Pi, ARM Cortex
+
+## Contact
+
+For collaboration or inquiries, please reach out to me at nadiridev@gmail.com.
