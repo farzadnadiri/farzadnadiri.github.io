@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic page. I am Farzad Nadiri, a dedicated roboticist with a strong passion for computer vision, localization, and perception in robotics. My work primarily focuses on humanoid soccer robots, multi-agent systems, and autonomous robots. This website showcases my academic achievements, research, publications, and professional experiences.
+Welcome to my personal academic page. I am Farzad Nadiri, a roboticist with a strong passion for computer vision, localization, and perception in robotics. My work primarily focuses on humanoid soccer robots, multi-agent systems, and autonomous robots. This website showcases my academic achievements, research, publications, and professional experiences.
 
 ## Education
 
