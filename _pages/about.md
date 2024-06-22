@@ -9,6 +9,30 @@ redirect_from:
 
 Welcome to my personal academic page. I am Farzad Nadiri, a dedicated roboticist with a strong passion for computer vision, localization, and perception in robotics. My work primarily focuses on humanoid soccer robots, multi-agent systems, and autonomous robots. This website showcases my academic achievements, research, publications, and professional experiences.
 
+## Education
+
+**Master of Computer Science - Artificial Intelligence and Robotics**  
+*Science & Research University, Tehran, Iran*  
+*Jan 2020*  
+- Thesis: Enhancing Map-Based Localization in Humanoid Soccer Robots using IMU Data and Bird's Eye View Perspectives.  
+  [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
+
+**Bachelor of Engineering - Information Technology**  
+*Azad University, Parand Branch, Tehran, Iran*  
+*Dec 2014*  
+- Final Project: Creating a Modular Software Framework for Humanoid Soccer Robots.  
+  [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
+
+## Research Experience
+
+**Autonomous Robots Lab, Parand, Iran**  
+*Researcher*  
+*Jan 2011 - May 2016*  
+- Developed humanoid robots for RoboCup competitions, achieving multiple championships.
+- Designed and implemented vision modules, localization systems, and multi-robot communication protocols.
+- Created a ball-tracking module using PID control for robot soccer.
+- Enhanced localization accuracy with IMU data and inverse perspective mapping.
+
 ## Work Experience
 
 **Quartech, Vancouver, Canada**  
@@ -32,30 +56,6 @@ Welcome to my personal academic page. I am Farzad Nadiri, a dedicated roboticist
 *Sep 2018 - Dec 2020*  
 - Led the design and development of a horse racing betting software for the Iran Equestrian Federation, resulting in $32 million annual revenue.
 
-## Education
-
-**Master of Computer Science - Artificial Intelligence and Robotics**  
-*Azad University, Science & Research Branch, Tehran, Iran*  
-*Jan 2020*  
-- Thesis: Enhancing Map-Based Localization in Humanoid Soccer Robots using IMU Data and Bird's Eye View Perspectives.  
-  [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
-
-**Bachelor of Engineering - Information Technology**  
-*Azad University, Parand Branch, Tehran, Iran*  
-*Dec 2014*  
-- Final Project: Creating a Modular Software Framework for Humanoid Soccer Robots.  
-  [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
-
-## Research Experience
-
-**Autonomous Robots Lab, Tehran, Iran**  
-*Researcher*  
-*Jan 2011 - May 2016*  
-- Developed humanoid robots for RoboCup competitions, achieving multiple championships.
-- Designed and implemented vision modules, localization systems, and multi-robot communication protocols.
-- Created a ball-tracking module using PID control for robot soccer.
-- Enhanced localization accuracy with IMU data and inverse perspective mapping.
-
 ## Publications
 
 - **Parand Humanoid TeenSize Team Description Paper**, RoboCup 2015 Humanoid Teen-Size Robot League.
@@ -70,20 +70,21 @@ Welcome to my personal academic page. I am Farzad Nadiri, a dedicated roboticist
 - **Referee Committee Member**  
   *ICT Challenge, Sharif University of Technology, Jul 2020*
 - **RoboCup Competitions**  
-  - 1st place, RoboCup 2015, Hefei, China
-  - 3rd place, RoboCup 2014, João Pessoa, Brazil
-  - Championships, IranOpen 2013, 2015, Tehran, Iran
+  - 1st place, RoboCup 2015, Humanoid Soccer Robot - Teen Size, Hefei, China
+  - 3rd place, RoboCup 2014, Humanoid Soccer Robot - Teen Size, João Pessoa, Brazil
+  - Championships, IranOpen 2013, 2015, Humanoid Soccer Robot - Kid Size, Teen Size Tehran, Iran
 
 ## Skills
 
 **Programming Languages:**  
-C++, Python, MATLAB, Java, JavaScript, Ruby
+C++, C#, Python, Java, JavaScript, Typescript
 
-**Technical Software:**  
-Simulink, LabView, OpenCV, TensorFlow, PyTorch
-
-**Embedded Systems:**  
-Arduino, Raspberry Pi, ARM Cortex
+## Certifications
+- Machine Learning Specialization
+- Unsupervised Learning, Recommenders, Reinforcement Learning
+- Supervised Machine Learning, Regression and Classification
+- Advanced Learning Algorithms
+- Agile Software Development
 
 ## Contact
 
