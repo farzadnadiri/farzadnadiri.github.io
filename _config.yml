@@ -12,7 +12,7 @@ title                    : "Farzad Nadiri"
 title_separator          : "-"
 name                     : &name "Farzad Nadiri"
 description              : &description "personal description"
-url                      : "https://farzadnadiri.github.io"
+url                      : https://farzadnadiri.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "farzadnadiri/farzadnadiri.github.io"
 
