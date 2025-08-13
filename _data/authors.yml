@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Farzad Nadiri:
+  name: "Farzad Nadiri"
+  uri: "https://www.linkedin.com/in/farzadnadiri/"
+  email: "Farzad_nadiri@sfu.ca"
+  bio: "Software and robotics engineer specializing in AI, computer vision, and autonomous systems. PhD student at Simon Fraser University."
+  avatar: "profile.png"
+  twitter:
+  google_plus:
