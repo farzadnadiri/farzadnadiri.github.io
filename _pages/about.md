@@ -1,11 +1,11 @@
----
 permalink: /
 title: "Farzad Nadiri — Software & Robotics Engineer"
 author_profile: true
+classes: wide
 redirect_from:
-  - /about/
-  - /about.html
----
+
+- /about/
+- /about.html
 
 Hi there 👋 I'm Farzad Nadiri.
 
@@ -19,6 +19,7 @@ Let’s connect and build something remarkable together.
 
 - PhD Student, Mechatronics (AI & Robotics), Simon Fraser University
 - Research Assistant, Autonomous and Intelligent Systems Lab (SFU)
+- Senior Software Engineer, Quartech
 
 ## Focus areas
 
@@ -91,34 +92,6 @@ Let’s connect and build something remarkable together.
   - Developed server-side, monitoring panel, and embedded software for IoT car insurance using telematics (OBD2 + sensors)
 
 ## Certifications
-
-- Machine Learning Specialization [credential]
-- Structuring Machine Learning Projects [credential]
-- Improving Deep Neural Networks [credential]
-- Neural Networks and Deep Learning [credential]
-- Unsupervised Learning, Recommenders, Reinforcement Learning [credential]
-- Supervised Machine Learning, Regression and Classification [credential]
-- Advanced Learning Algorithms [credential]
-
-## Projects & Code
-
-- Thesis code repository: [AccurateBirdEyeView](https://github.com/farzadnadiri/AccurateBirdEyeView)
-- Bachelor final project repository: [HumanoidSoccerRobot](https://github.com/farzadnadiri/HumanoidSoccerRobot)
-
-## People & Collaborations
-
-- Professor Ahmad Rad (SFU): [Faculty profile](https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/faculty/faculty-members/arad.html)
-
-## Media & Documentation
-
-- YouTube channel: [Farzad Nadiri](https://www.youtube.com/%40farzadnadiri)
-- RoboCup 2016 Team Description Paper (PDF): [Team Parand KidSize 2016 TDP](https://humanoid.robocup.org/qualification/2016/66d289c95cb09a9985a9f885a58b8e9babbc1730/TeamParand_Humanoid_KidSize_2016_TDP.pdf)
-
-## Work-Related
-
-- BC Government Early Childhood Education Registry Portal: [myeceregistry.gov.bc.ca](https://www.myeceregistry.gov.bc.ca/)
-
-## Certifications (Coursera)
 
 - Machine Learning Specialization: https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786
 - Structuring Machine Learning Projects: https://coursera.org/share/611bf132c430828ca253cd9326d20e2d

@@ -1,3 +1,17 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+
+<script>
+  (function() {
+    var anchors = document.querySelectorAll('a[href^="http"], a[href^="//"]');
+    var host = window.location.host;
+    for (var i = 0; i < anchors.length; i++) {
+      var a = anchors[i];
+      if (a.host && a.host !== host) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    }
+  })();
+</script>
