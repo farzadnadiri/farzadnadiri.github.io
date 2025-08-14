@@ -76,7 +76,7 @@ Let’s connect and build something remarkable together.
 
 - **Senior Software Engineer**, Quartech — Oct 2023–Present, Vancouver, Canada
   - Built a privacy-focused Law assistant LLM (RAG) tailored for BC court systems using Llama
-  - Designed and developed early childhood education portal for the BC government [link](https://www.myeceregistry.gov.bc.ca/)
+  - Developed early childhood education portal for the BC government [link](https://www.myeceregistry.gov.bc.ca/)
 - **Senior Software Engineer**, Pacific Blue Cross — Jan 2023–Jul 2023, Vancouver, Canada
   - Improved mapping app performance by 25% via architectural refactoring and automated testing
   - Enhanced scalability and reliability for 1M+ users
@@ -103,8 +103,8 @@ Let’s connect and build something remarkable together.
 
 ## Journals Reviewer
 
-- Springer Nature (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/12559)
-- Springer Nature (Supercomputing) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/11227)
+- Springer (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/12559)
+- Springer (Supercomputing) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/11227)
 - International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada [link](https://www.worldscientific.com/worldscinet/IJHR)
 - COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada [link](https://access.portico.org/Portico/loviView?cs=ISSN_28324463_1848&content=E-Journal%20Content)
 
