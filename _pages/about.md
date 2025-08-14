@@ -50,13 +50,13 @@ Let’s connect and build something remarkable together.
 - Referee Committee Member, ICT Challenge national competitions, Sharif University (Jul 2020) [link](https://ictchallenge.ir/ictchallenge5/)
 - Best Master Thesis Award, Science & Research University (Jan 2020)
 - RoboCup (Teen-Size Humanoid)
-  - World Championship, RoboCup 2015, Hefei, China
-  - 3rd Place, RoboCup 2014, João Pessoa, Brazil
-  - Championship, IranOpen International Competitions 2015, Tehran
-  - Championship, IranOpen International Competitions 2013, Tehran
+  - World Championship, RoboCup 2015, Hefei, China [link](https://farzadnadiri.github.io/images/robocup_2015.jpg)
+  - 3rd Place, RoboCup 2014, João Pessoa, Brazil [link](https://farzadnadiri.github.io/images/robocup_2014.jpg)
+  - Championship, IranOpen International Competitions 2015, Tehran [link](https://farzadnadiri.github.io/images/io_teen_2015.jpg)
+  - Championship, IranOpen International Competitions 2013, Tehran [link](https://farzadnadiri.github.io/images/io_teen_2013.jpg)
 - RoboCup (Kid-Size Humanoid)
-  - 2nd Place, IranOpen International Competitions 2016, Tehran
-  - Championship, IranOpen International Competitions 2015, Tehran
+  - 2nd Place, IranOpen International Competitions 2016, Tehran [link](https://farzadnadiri.github.io/images/io_kid_2016.jpg)
+  - Championship, IranOpen International Competitions 2015, Tehran [link](https://farzadnadiri.github.io/images/io_kid_2015.jpg)
 
 ## Research Experience
 
@@ -65,7 +65,7 @@ Let’s connect and build something remarkable together.
   - Autonomous driving perception, Control and localization using look-ahead and look-down methods with CARLA validation
   - Sensor-fusion localization for autonomous robots
   - Decentralized swarm communication for collaborative decision-making in multi-agent systems
-- **Research Assistant****, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
+- **Research Assistant\*\***, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
   - Vision pipeline for object detection and tracking
   - Soccer behavior layer with field localization and obstacle avoidance
   - Multi-robot UDP communication for cooperation and coordination
@@ -99,6 +99,7 @@ Let’s connect and build something remarkable together.
 - Unsupervised Learning, Recommenders, and Reinforcement Learning [link](https://coursera.org/share/abe106fa9d91831501c14443d047922e)
 - Supervised Machine Learning, Regression, and Classification [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
 - Advanced Learning Algorithms [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
+- International Spring School on humanoid soccer robots [link](https://farzadnadiri.github.io/images/humanoid_school.jpg)
 
 ## Journals Reviewer
 
