@@ -85,9 +85,10 @@ Let’s connect and build something remarkable together.
   - Led concept-to-deployment execution
 - Software Engineering Team Lead, Metalive — Dec 2020–Feb 2022, Tehran, Iran
   - Developed multi-role telemedicine platform with WebRTC video consults and e-prescriptions
+  - Led the development of a business-focused social networking platform on the Microsoft technology stack, utilizing Web APIs and SignalR, with integrated Android and web clients.
 - Software Engineering Team Lead, Parsertebat — Sep 2018–Dec 2020, Tehran, Iran
-  - Built horse racing betting software from scratch, reaching 70k+ users and ~$32M annual revenue
-  - Developed server-side, monitoring panel, and embedded software for IoT car insurance using telematics (OBD2 + sensors)
+  - Led the end-to-end design and development of a horse racing betting software solution with 8 distinct modules, built from scratch, reaching over 70,000 users and generating approximately $32M in annual revenue for the Equestrian Federation of Iran.
+  - Led the development of server-side systems, monitoring dashboard, and embedded software for an IoT-based car insurance platform using telematics (OBD2 and sensors) to determine premiums through driving behavior analysis and mileage tracking.
 
 ## Certifications
 
@@ -107,4 +108,5 @@ Let’s connect and build something remarkable together.
 - International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
 
 ## Volunteering
+
 - Teaching Assistant, Azad University — Apr 2011–Jun 2012, Tehran, Iran
