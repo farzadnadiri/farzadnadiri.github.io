@@ -65,7 +65,7 @@ Let’s connect and build something remarkable together.
   - Autonomous driving perception, Control and localization using look-ahead and look-down methods with CARLA validation
   - Sensor-fusion localization for autonomous robots
   - Decentralized swarm communication for collaborative decision-making in multi-agent systems
-- **Research Assistant\*\***, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
+- **Research Assistant**, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
   - Vision pipeline for object detection and tracking
   - Soccer behavior layer with field localization and obstacle avoidance
   - Multi-robot UDP communication for cooperation and coordination
@@ -103,10 +103,10 @@ Let’s connect and build something remarkable together.
 
 ## Journals Reviewer
 
-- Springer Nature (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada
-- Springer Nature (Supercomputing) — Feb 2025–Present, Vancouver, Canada
-- COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada
-- International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
+- Springer Nature (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/12559)
+- Springer Nature (Supercomputing) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/11227)
+- International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada [link](https://www.worldscientific.com/worldscinet/IJHR)
+- COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada [link](https://access.portico.org/Portico/loviView?cs=ISSN_28324463_1848&content=E-Journal%20Content)
 
 ## Volunteering
 
