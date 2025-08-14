@@ -95,7 +95,7 @@ Let’s connect and build something remarkable together.
 - Structuring Machine Learning Projects [link](https://coursera.org/share/611bf132c430828ca253cd9326d20e2d)
 - Improving Deep Neural Networks [link](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86)
 - Neural Networks and Deep Learning [link](https://coursera.org/share/c9823dffe232597e18a301cc77259f94)
-- Unsupervised Learning, Recommenders, and Reinforcement Learning [link] (https://coursera.org/share/abe106fa9d91831501c14443d047922e)
+- Unsupervised Learning, Recommenders, and Reinforcement Learning [link](https://coursera.org/share/abe106fa9d91831501c14443d047922e)
 - Supervised Machine Learning, Regression, and Classification [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
 - Advanced Learning Algorithms [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
 
@@ -107,8 +107,3 @@ Let’s connect and build something remarkable together.
 - Reviewer, International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
 - Teaching Assistant, Azad University — Apr 2011–Jun 2012, Tehran, Iran
 
-## Publications
-
-{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}
