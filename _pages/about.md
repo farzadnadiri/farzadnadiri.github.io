@@ -50,7 +50,7 @@ Let’s connect and build something remarkable together.
 - Referee Committee Member, ICT Challenge national competitions, Sharif University (Jul 2020) [link](https://ictchallenge.ir/ictchallenge5/)
 - Best Master Thesis Award, Science & Research University (Jan 2020)
 - RoboCup (Teen-Size Humanoid)
-  - World Champion, RoboCup 2015, Hefei, China
+  - World Championship, RoboCup 2015, Hefei, China
   - 3rd Place, RoboCup 2014, João Pessoa, Brazil
   - Championship, IranOpen International Competitions 2015, Tehran
   - Championship, IranOpen International Competitions 2013, Tehran
@@ -60,12 +60,12 @@ Let’s connect and build something remarkable together.
 
 ## Research Experience
 
-- Research Assistant, Autonomous and Intelligent Systems Lab, SFU — Jun 2024–Present, Vancouver, Canada  
+- **Research Assistant**, Autonomous and Intelligent Systems Lab, SFU — Jun 2024–Present, Vancouver, Canada  
   Supervisor: Professor Ahmad Rad [link](https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/faculty/faculty-members/arad.html)
   - Autonomous driving perception, Control and localization using look-ahead and look-down methods with CARLA validation
   - Sensor-fusion localization for autonomous robots
   - Decentralized swarm communication for collaborative decision-making in multi-agent systems
-- Research Assistant, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
+- **Research Assistant****, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
   - Vision pipeline for object detection and tracking
   - Soccer behavior layer with field localization and obstacle avoidance
   - Multi-robot UDP communication for cooperation and coordination
@@ -74,19 +74,19 @@ Let’s connect and build something remarkable together.
 
 ## Work Experience
 
-- Senior Software Engineer, Quartech — Oct 2023–Present, Vancouver, Canada
+- **Senior Software Engineer**, Quartech — Oct 2023–Present, Vancouver, Canada
   - Built a privacy-focused Law assistant LLM (RAG) tailored for BC court systems using Llama
   - Designed and developed early childhood education portal for the BC government [link](https://www.myeceregistry.gov.bc.ca/)
-- Senior Software Engineer, Pacific Blue Cross — Jan 2023–Jul 2023, Vancouver, Canada
+- **Senior Software Engineer**, Pacific Blue Cross — Jan 2023–Jul 2023, Vancouver, Canada
   - Improved mapping app performance by 25% via architectural refactoring and automated testing
   - Enhanced scalability and reliability for 1M+ users
-- Founder & CTO, RoboGarson — Dec 2021–Dec 2022, Tehran, Iran
-  - Built a restaurant service robot using 3D point cloud localization for precise navigation and interaction
+- **Founder & CTO**, RoboGarson — Dec 2021–Dec 2022, Tehran, Iran
+  - Built a restaurant service robot using 3D point cloud localization for precise navigation and interaction.
   - Led concept-to-deployment execution
-- Software Engineering Team Lead, Metalive — Dec 2020–Feb 2022, Tehran, Iran
-  - Developed multi-role telemedicine platform with WebRTC video consults and e-prescriptions
+- **Software Engineering Team Lead**, Metalive — Dec 2020–Feb 2022, Tehran, Iran
+  - Developed multi-role telemedicine platform with WebRTC video consults and e-prescriptions.
   - Led the development of a business-focused social networking platform on the Microsoft technology stack, utilizing Web APIs and SignalR, with integrated Android and web clients.
-- Software Engineering Team Lead, Parsertebat — Sep 2018–Dec 2020, Tehran, Iran
+- **Software Engineering Team Lead**, Parsertebat — Sep 2018–Dec 2020, Tehran, Iran
   - Led the end-to-end design and development of a horse racing betting software solution with 8 distinct modules, built from scratch, reaching over 70,000 users and generating approximately $32M in annual revenue for the Equestrian Federation of Iran.
   - Led the development of server-side systems, monitoring dashboard, and embedded software for an IoT-based car insurance platform using telematics (OBD2 and sensors) to determine premiums through driving behavior analysis and mileage tracking.
 
