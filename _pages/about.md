@@ -34,7 +34,6 @@ Let’s connect and build something remarkable together.
 - RoboCup World Champion (Teen-Size Humanoid): Researcher and Software dev on autonomous, vision-based robots
 - Delivered platforms generating $60M+ annual revenue
 
-
 ## Education
 
 - PhD Student, Mechatronics (AI & Robotics), Simon Fraser University — May 2024–Present, Vancouver, Canada
@@ -45,24 +44,25 @@ Let’s connect and build something remarkable together.
 
 ## Honors & Awards
 
+- Special Graduate Dean's Entrance Scholarship Simon Fraser University
 - Supported by the National Elites Foundation of Iran (2020–2022)
-- Best Student Research Award (4 consecutive years), Research Week (2011–2015), Tehran, Iran
-- Referee Committee Member, ICT Challenge national competitions, Sharif University (Jul 2020)
+- Best Student Research Award (4 consecutive years, Research Week, 2011–2015), Tehran, Iran
+- Referee Committee Member, ICT Challenge national competitions, Sharif University (Jul 2020) [link]()
 - Best Master Thesis Award, Science & Research University (Jan 2020)
 - RoboCup (Teen-Size Humanoid)
   - World Champion, RoboCup 2015, Hefei, China
   - 3rd Place, RoboCup 2014, João Pessoa, Brazil
-  - Championship, IranOpen 2015, Tehran
-  - Championship, IranOpen 2013, Tehran
+  - Championship, IranOpen International Competitions 2015, Tehran
+  - Championship, IranOpen International Competitions 2013, Tehran
 - RoboCup (Kid-Size Humanoid)
-  - 2nd Place, IranOpen 2016, Tehran
-  - Championship, IranOpen 2015, Tehran
+  - 2nd Place, IranOpen International Competitions 2016, Tehran
+  - Championship, IranOpen International Competitions 2015, Tehran
 
 ## Research Experience
 
 - Research Assistant, Autonomous and Intelligent Systems Lab, SFU — Jun 2024–Present, Vancouver, Canada  
-  Supervisor: Professor Ahmad Rad
-  - Autonomous driving perception and localization using look-ahead and look-down methods with CARLA data
+  Supervisor: Professor Ahmad Rad [link](https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/faculty/faculty-members/arad.html)
+  - Autonomous driving perception, Control and localization using look-ahead and look-down methods with CARLA validation
   - Sensor-fusion localization for autonomous robots
   - Decentralized swarm communication for collaborative decision-making in multi-agent systems
 - Research Assistant, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
@@ -70,13 +70,13 @@ Let’s connect and build something remarkable together.
   - Soccer behavior layer with field localization and obstacle avoidance
   - Multi-robot UDP communication for cooperation and coordination
   - Multithreaded modules: omnidirectional bipedal walk engine, I/O, motion designer, balance control
-  - Built multiple 20-DOF humanoid platforms (Kid-Size, Teen-Size)  
+  - Built multiple 20-DOF humanoid platforms (Kid-Size, Teen-Size)
 
 ## Work Experience
 
 - Senior Software Engineer, Quartech — Oct 2023–Present, Vancouver, Canada
   - Built a privacy-focused Law assistant LLM (RAG) tailored for BC court systems using Llama
-  - Designed and developed early childhood education portal for the BC government ([BC Early Childhood Education Registry Portal](https://www.myeceregistry.gov.bc.ca/))
+  - Designed and developed early childhood education portal for the BC government ([link](https://www.myeceregistry.gov.bc.ca/))
 - Senior Software Engineer, Pacific Blue Cross — Jan 2023–Jul 2023, Vancouver, Canada
   - Improved mapping app performance by 25% via architectural refactoring and automated testing
   - Enhanced scalability and reliability for 1M+ users
@@ -106,4 +106,3 @@ Let’s connect and build something remarkable together.
 - Reviewer, COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada
 - Reviewer, International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
 - Teaching Assistant, Azad University — Apr 2011–Jun 2012, Tehran, Iran
-
