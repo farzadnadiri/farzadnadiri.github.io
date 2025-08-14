@@ -12,7 +12,7 @@ Hi there 👋 I'm Farzad Nadiri.
 
 I’m a software and robotics engineer with over a decade of experience building intelligent systems at the intersection of research and production. I specialize in AI, computer vision, autonomous systems, and cloud platforms—developing robust software by day and prototyping autonomous robots and self-driving vehicles by night.
 
-My background includes leading winning RoboCup humanoid soccer teams, developing privacy-preserving RAG systems, and delivering platforms used by hundreds of thousands of users with significant revenue impact. I value teamwork, communication, and resilience, and I love turning ambitious ideas into impactful products.
+My background includes championship in RoboCup humanoid soccer league, developing privacy-preserving RAG systems, and delivering platforms used by hundreds of thousands of users with significant revenue impact. I value teamwork, communication, and resilience, and I love turning ambitious ideas into impactful products.
 
 Let’s connect and build something remarkable together.
 
@@ -24,16 +24,16 @@ Let’s connect and build something remarkable together.
 
 ## Focus areas
 
-- Computer vision for autonomy (lane detection, perception)
+- Computer vision for autonomy perception
 - Sensor fusion and localization for humanoid robots and vehicles
 - Swarm communication and decentralized decision-making
-- Large Language Models and RAG systems
+- Language Models and RAG systems
 
 ## Highlights
 
-- RoboCup World Champion (Teen-Size Humanoid): Software lead on autonomous, vision-based robots
+- RoboCup World Champion (Teen-Size Humanoid): Researcher and Software dev on autonomous, vision-based robots
 - Delivered platforms generating $60M+ annual revenue
-- Built privacy-focused Law assistant LLM (BC courts) using Llama
+
 
 ## Education
 
@@ -52,28 +52,25 @@ Let’s connect and build something remarkable together.
 - RoboCup (Teen-Size Humanoid)
   - World Champion, RoboCup 2015, Hefei, China
   - 3rd Place, RoboCup 2014, João Pessoa, Brazil
-  - Champion, IranOpen 2015, Tehran
-  - Champion, IranOpen 2013, Tehran
+  - Championship, IranOpen 2015, Tehran
+  - Championship, IranOpen 2013, Tehran
 - RoboCup (Kid-Size Humanoid)
   - 2nd Place, IranOpen 2016, Tehran
-  - Champion, IranOpen 2015, Tehran
+  - Championship, IranOpen 2015, Tehran
 
 ## Research Experience
 
 - Research Assistant, Autonomous and Intelligent Systems Lab, SFU — Jun 2024–Present, Vancouver, Canada  
   Supervisor: Professor Ahmad Rad
   - Autonomous driving perception and localization using look-ahead and look-down methods with CARLA data
-  - Lane detection and navigation on uphill/downhill roads using IMU+vision fusion
-  - Sensor-fusion localization for humanoid soccer robots (IMU+camera)
-  - Decentralized swarm communication for collaborative decision-making in humanoid teams
+  - Sensor-fusion localization for autonomous robots
+  - Decentralized swarm communication for collaborative decision-making in multi-agent systems
 - Research Assistant, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
-  - Led software team (RoboCup 2015, World Champions)
   - Vision pipeline for object detection and tracking
   - Soccer behavior layer with field localization and obstacle avoidance
   - Multi-robot UDP communication for cooperation and coordination
   - Multithreaded modules: omnidirectional bipedal walk engine, I/O, motion designer, balance control
   - Built multiple 20-DOF humanoid platforms (Kid-Size, Teen-Size)  
-    [Video] [Report] [Code]
 
 ## Work Experience
 
@@ -94,22 +91,24 @@ Let’s connect and build something remarkable together.
 
 ## Certifications
 
-- Machine Learning Specialization: https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786
-- Structuring Machine Learning Projects: https://coursera.org/share/611bf132c430828ca253cd9326d20e2d
-- Improving Deep Neural Networks: https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86
-- Neural Networks and Deep Learning: https://coursera.org/share/c9823dffe232597e18a301cc77259f94
-- Unsupervised Learning, Recommenders, and Reinforcement Learning: https://coursera.org/share/abe106fa9d91831501c14443d047922e
-- Supervised Machine Learning, Regression, and Classification: https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc
-- Advanced Learning Algorithms: https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3
+- Machine Learning Specialization [link](https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786)
+- Structuring Machine Learning Projects [link](https://coursera.org/share/611bf132c430828ca253cd9326d20e2d)
+- Improving Deep Neural Networks [link](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86)
+- Neural Networks and Deep Learning [link](https://coursera.org/share/c9823dffe232597e18a301cc77259f94)
+- Unsupervised Learning, Recommenders, and Reinforcement Learning [link] (https://coursera.org/share/abe106fa9d91831501c14443d047922e)
+- Supervised Machine Learning, Regression, and Classification [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
+- Advanced Learning Algorithms [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
 
 ## Volunteering
 
-- Reviewer, Springer — Feb 2025–Present, Vancouver, Canada
-- Reviewer, COJ Robotics & Artificial Intelligence (COJRA) — Feb 2025–Present, Vancouver, Canada
+- Reviewer, Springer Nature (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada
+- Reviewer, Springer Nature (Supercomputing) — Feb 2025–Present, Vancouver, Canada
+- Reviewer, COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada
+- Reviewer, International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
 - Teaching Assistant, Azad University — Apr 2011–Jun 2012, Tehran, Iran
 
 ## Publications
 
-  <ul>{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% endfor %}
