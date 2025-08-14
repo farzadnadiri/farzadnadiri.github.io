@@ -1,11 +1,12 @@
+---
 permalink: /
 title: "Farzad Nadiri — Software & Robotics Engineer"
 author_profile: true
 classes: wide
 redirect_from:
-
-- /about/
-- /about.html
+  - /about/
+  - /about.html
+---
 
 Hi there 👋 I'm Farzad Nadiri.
 
