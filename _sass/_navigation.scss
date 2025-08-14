@@ -210,7 +210,6 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
         text-wrap: wrap;
 
         a {
@@ -247,6 +246,10 @@
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
+      }
+
+      &.active {
+        font-weight: bold;
       }
     }
   }

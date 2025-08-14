@@ -13,7 +13,13 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign is_current = false %}
+            {% if link.url == page.url %}
+              {% assign is_current = true %}
+            {% elsif link.url == '/' and page.url == '/' %}
+              {% assign is_current = true %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"{% if is_current %} class="active"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
