@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Farzad Nadiri — Software & Robotics Engineer"
+title: "Farzad Nadiri - Software & Robotics Engineer"
 author_profile: true
 classes: wide
 redirect_from:
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋 I'm Farzad Nadiri.
+Hi there 👋 I'm Farzad.
 
-I’m a software and robotics engineer with over a decade of experience building intelligent systems at the intersection of research and production. I specialize in AI, computer vision, autonomous systems, and cloud platforms—developing robust software by day and prototyping autonomous robots and self-driving vehicles by night.
+A software and robotics engineer with over a decade of experience building intelligent systems at the intersection of research and production. I specialize in AI, computer vision, autonomous systems, and cloud platforms—developing robust software by day and prototyping autonomous robots and self-driving vehicles by night.
 
 My background includes championship in RoboCup humanoid soccer league, developing privacy-preserving RAG systems, and delivering platforms used by hundreds of thousands of users with significant revenue impact. I value teamwork, communication, and resilience, and I love turning ambitious ideas into impactful products.
 
@@ -76,7 +76,7 @@ Let’s connect and build something remarkable together.
 
 - Senior Software Engineer, Quartech — Oct 2023–Present, Vancouver, Canada
   - Built a privacy-focused Law assistant LLM (RAG) tailored for BC court systems using Llama
-  - Designed and developed early childhood education portal for the BC government ([link](https://www.myeceregistry.gov.bc.ca/))
+  - Designed and developed early childhood education portal for the BC government [link](https://www.myeceregistry.gov.bc.ca/)
 - Senior Software Engineer, Pacific Blue Cross — Jan 2023–Jul 2023, Vancouver, Canada
   - Improved mapping app performance by 25% via architectural refactoring and automated testing
   - Enhanced scalability and reliability for 1M+ users
@@ -99,10 +99,12 @@ Let’s connect and build something remarkable together.
 - Supervised Machine Learning, Regression, and Classification [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
 - Advanced Learning Algorithms [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
 
-## Volunteering
+## Journals Reviewer
 
-- Reviewer, Springer Nature (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada
-- Reviewer, Springer Nature (Supercomputing) — Feb 2025–Present, Vancouver, Canada
-- Reviewer, COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada
-- Reviewer, International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
+- Springer Nature (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada
+- Springer Nature (Supercomputing) — Feb 2025–Present, Vancouver, Canada
+- COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada
+- International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada
+
+## Volunteering
 - Teaching Assistant, Azad University — Apr 2011–Jun 2012, Tehran, Iran
