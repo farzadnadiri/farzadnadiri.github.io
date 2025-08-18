@@ -29,11 +29,6 @@ Let’s connect and build something remarkable together.
 - Swarm communication and decentralized decision-making
 - Language Models and RAG systems
 
-## Highlights
-
-- RoboCup World Champion (Teen-Size Humanoid): Researcher and Software dev on autonomous, vision-based robots
-- Delivered platforms generating $60M+ annual revenue
-
 ## Education
 
 - PhD Student, Mechatronics (AI & Robotics), Simon Fraser University — May 2024–Present, Vancouver, Canada
