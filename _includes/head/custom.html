@@ -29,4 +29,37 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+  "name": "{{ site.name | default: site.author.name | escape }}",
+  "image": "{{ site.url }}{{ site.baseurl }}/images/{{ site.author.avatar | default: 'profile.jpg' }}",
+  "jobTitle": "Software & Robotics Engineer",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "description": "{{ site.description | escape }}",
+  "sameAs": [
+    {% assign links = site.social.links %}
+    {% assign scholar = site.author.googlescholar %}
+    {% assign orcid = site.author.orcid %}
+    {% for l in links %}
+    "{{ l }}"{% if forloop.last and (scholar or orcid) %},{% elsif forloop.last == false %},{% endif %}
+    {% endfor %}
+    {% if scholar %}"{{ scholar }}"{% if orcid %},{% endif %}{% endif %}
+    {% if orcid %}"{{ orcid }}"{% endif %}
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Quartech"
+  },
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Simon Fraser University"
+  }
+}
+</script>
+{% endif %}
+
 <!-- end custom head snippets -->
