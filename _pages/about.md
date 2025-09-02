@@ -98,6 +98,7 @@ Let’s connect and build something remarkable together.
 
 ## Journals Reviewer
 
+- Nature (Scientific Reports) — Aug 2025–Present, Vancouver, Canada [link](https://www.nature.com/srep)
 - Springer (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/12559)
 - Springer (Supercomputing) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/11227)
 - International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada [link](https://www.worldscientific.com/worldscinet/IJHR)
