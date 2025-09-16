@@ -39,7 +39,7 @@ Let’s connect and build something remarkable together.
 
 ## Honors & Awards
 
-- Special Graduate Dean's Entrance Scholarship Simon Fraser University
+- Special Graduate Dean's Entrance Scholarship Simon Fraser University (44k CAD)
 - Supported by the National Elites Foundation of Iran (2020–2022)
 - Best Student Research Award (4 consecutive years, Research Week, 2011–2015), Tehran, Iran
 - Referee Committee Member, ICT Challenge national competitions, Sharif University (Jul 2020) [link](https://ictchallenge.ir/ictchallenge5/)
