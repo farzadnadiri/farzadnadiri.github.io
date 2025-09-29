@@ -102,6 +102,8 @@ Let’s connect and build something remarkable together.
 - Springer (Computational Intelligence Systems) — Sep 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/44196)
 - Springer (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/12559)
 - Springer (Supercomputing) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/11227)
+- Springer (Discover Applied Sciences) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/42452)
+- Springer (Discover Artificial Intelligence) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/44163)
 - International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada [link](https://www.worldscientific.com/worldscinet/IJHR)
 - COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada [link](https://access.portico.org/Portico/loviView?cs=ISSN_28324463_1848&content=E-Journal%20Content)
 
