@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Farzad Nadiri - Software & Robotics Engineer"
+title: "Farzad Nadiri - Applied Scientist"
 author_profile: true
 classes: wide
 redirect_from:
@@ -8,105 +8,157 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋 I'm Farzad.
+Hi there 👋 I am Farzad,
 
-A software and robotics engineer with over a decade of experience building intelligent systems at the intersection of research and production. I specialize in AI, computer vision, autonomous systems, and cloud platforms—developing robust software by day and prototyping autonomous robots and self-driving vehicles by night.
+I am an applied scientist with over a decade of experience designing, training, and deploying intelligent systems. My work sits at the intersection of research and production, where I formulate problems, build models and algorithms, and integrate them into reliable services that run at scale. I specialize in AI, NLP, computer vision, autonomous systems, and cloud platforms.
 
-My background includes championship in RoboCup humanoid soccer league, developing privacy-preserving RAG systems, and delivering platforms used by hundreds of thousands of users with significant revenue impact. I value teamwork, communication, and resilience, and I love turning ambitious ideas into impactful products.
+My background includes RoboCup humanoid soccer world and national championships, sensor fusion and localization for humanoid robots and autonomous vehicles, privacy preserving retrieval augmented generation systems for legal workloads, and platforms that serve hundreds of thousands of users and drive multi million dollar annual revenue. I enjoy working end to end, from data and modeling to deployment and monitoring, and I care about clear communication, collaboration, and measurable outcomes.
 
-Let’s connect and build something remarkable together.
+Let us connect and build something impactful together.
 
-## Current role
+## Current roles
 
-- PhD Student, Mechatronics (AI & Robotics), Simon Fraser University
-- Research Assistant, Autonomous and Intelligent Systems Lab (SFU)
-- Senior Software Engineer, Quartech
+- Senior Software and ML Engineer, Quartech
+- PhD Student, Mechatronics, AI and Robotics, Simon Fraser University
+- Research Assistant, Autonomous and Intelligent Systems Lab, SFU
 
 ## Focus areas
 
-- Computer vision for autonomy perception
-- Sensor fusion and localization for humanoid robots and vehicles
-- Swarm communication and decentralized decision-making
-- Language Models and RAG systems
+- Applied machine learning and deep learning for perception
+- Language models and retrieval augmented generation for domain specific agents
+- Design and deployment of cloud based, production grade AI and agentic services
+
+## Technical skills
+
+- Languages, Python, C#, JAVA, C++, SQL, TypeScript
+- ML and data, machine learning, deep learning, computer vision, NLP, classical ML, NumPy, Pandas, scikit learn, OpenCV
+- Frameworks, PyTorch, ONNX, Hugging Face Transformers, LangChain, LangGraph, experimentation and evaluation tooling
+- Platforms, .NET, FastAPI, REST APIs, microservices, Azure, AWS, AWS SageMaker, Azure ML, Docker, Kubernetes, CI/CD, Terraform
+- Applied domains, LLMs and AI agents, computer vision and perception, autonomous systems, telematics and behavior modeling, large scale web and cloud applications
+
 
 ## Education
 
-- PhD Student, Mechatronics (AI & Robotics), Simon Fraser University — May 2024–Present, Vancouver, Canada
-- M.Sc., Computer Science (AI & Robotics), Science & Research University — Jan 2020, Tehran, Iran  
-  Thesis: A Fusion of Inertial Measurement Unit Data and Bird's Eye View Perspectives. [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
-- B.Eng., Information Technology, Azad University (Parand) — Dec 2014, Tehran, Iran  
-  Final Project: Modular Software Framework for Humanoid Soccer Robots. [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
+- PhD Student, Mechatronics, AI and Robotics, Simon Fraser University, May 2024 to Present, Vancouver, Canada  
+  Research, perception and control for autonomous systems, sensor fusion and localization, swarm communication in multi robot systems, simulation to real validation using CARLA and physical platforms
 
-## Honors & Awards
+- M.Sc., Computer Science, AI and Robotics, Science and Research University, Jan 2020, Tehran, Iran  
+  Thesis, A Fusion of Inertial Measurement Unit Data and Bird’s Eye View Perspectives, focused on improving localization accuracy through sensor fusion, [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
 
-- Special Graduate Dean's Entrance Scholarship Simon Fraser University (44k CAD)
-- Supported by the National Elites Foundation of Iran (2020–2022)
-- Best Student Research Award (4 consecutive years, Research Week, 2011–2015), Tehran, Iran
-- Referee Committee Member, ICT Challenge national competitions, Sharif University (Jul 2020) [link](https://ictchallenge.ir/ictchallenge5/)
-- Best Master Thesis Award, Science & Research University (Jan 2020)
-- RoboCup (Teen-Size Humanoid)
-  - World Championship, RoboCup 2015, Hefei, China [link](https://farzadnadiri.github.io/images/robocup_2015.jpg)
-  - 3rd Place, RoboCup 2014, João Pessoa, Brazil [link](https://farzadnadiri.github.io/images/robocup_2014.jpg)
-  - Championship, IranOpen International Competitions 2015, Tehran [link](https://farzadnadiri.github.io/images/io_teen_2015.jpg)
-  - Championship, IranOpen International Competitions 2013, Tehran [link](https://farzadnadiri.github.io/images/io_teen_2013.jpg)
-- RoboCup (Kid-Size Humanoid)
-  - 2nd Place, IranOpen International Competitions 2016, Tehran [link](https://farzadnadiri.github.io/images/io_kid_2016.jpg)
-  - Championship, IranOpen International Competitions 2015, Tehran [link](https://farzadnadiri.github.io/images/io_kid_2015.jpg)
+- B.Eng., Information Technology, Azad University, Parand, Dec 2014, Tehran, Iran  
+  Final project, Modular Software Framework for Humanoid Soccer Robots, including perception, behavior, localization, and motion modules, [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
 
-## Research Experience
+## Honors and awards
 
-- **Research Assistant**, Autonomous and Intelligent Systems Lab, SFU — Jun 2024–Present, Vancouver, Canada  
-  Supervisor: Professor Ahmad Rad [link](https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/faculty/faculty-members/arad.html)
-  - Autonomous driving perception, Control and localization using look-ahead and look-down methods with CARLA validation
-  - Sensor-fusion localization for autonomous robots
-  - Decentralized swarm communication for collaborative decision-making in multi-agent systems
-- **Research Assistant**, Autonomous Robots Lab — Jan 2011–May 2016, Tehran, Iran
-  - Vision pipeline for object detection and tracking
-  - Soccer behavior layer with field localization and obstacle avoidance
-  - Multi-robot UDP communication for cooperation and coordination
-  - Multithreaded modules: omnidirectional bipedal walk engine, I/O, motion designer, balance control
-  - Built multiple 20-DOF humanoid platforms (Kid-Size, Teen-Size)
+- Special Graduate Dean's Entrance Scholarship, Simon Fraser University, 44k CAD
+- Supported by the National Elites Foundation of Iran, 2020 to 2022
+- Best Student Research Award, four consecutive years, Research Week, 2011 to 2015, Tehran, Iran
+- Best Master Thesis Award, Science and Research University, Jan 2020
+- Referee Committee Member, ICT Challenge national competitions, Sharif University, Jul 2020, [link](https://ictchallenge.ir/ictchallenge5/)
 
-## Work Experience
+- RoboCup, Teen Size Humanoid
 
-- **Senior Software Engineer**, Quartech — Oct 2023–Present, Vancouver, Canada
-  - Built a privacy-focused Law assistant LLM (RAG) tailored for BC court systems using Llama
-  - Developed early childhood education portal for the BC government [link](https://www.myeceregistry.gov.bc.ca/)
-- **Senior Software Engineer**, Pacific Blue Cross — Jan 2023–Jul 2023, Vancouver, Canada
-  - Improved mapping app performance by 25% via architectural refactoring and automated testing
-  - Enhanced scalability and reliability for 1M+ users
-- **Founder & CTO**, RoboGarson — Dec 2021–Dec 2022, Tehran, Iran
-  - Built a restaurant service robot using 3D point cloud localization for precise navigation and interaction.
-  - Led concept-to-deployment execution
-- **Software Engineering Team Lead**, Metalive — Dec 2020–Feb 2022, Tehran, Iran
-  - Developed multi-role telemedicine platform with WebRTC video consults and e-prescriptions.
-  - Led the development of a business-focused social networking platform on the Microsoft technology stack, utilizing Web APIs and SignalR, with integrated Android and web clients.
-- **Software Engineering Team Lead**, Parsertebat — Sep 2018–Dec 2020, Tehran, Iran
-  - Led the end-to-end design and development of a horse racing betting software solution with 8 distinct modules, built from scratch, reaching over 70,000 users and generating approximately $32M in annual revenue for the Equestrian Federation of Iran.
-  - Led the development of server-side systems, monitoring dashboard, and embedded software for an IoT-based car insurance platform using telematics (OBD2 and sensors) to determine premiums through driving behavior analysis and mileage tracking.
+  - World Championship, RoboCup 2015, Hefei, China, [link](https://farzadnadiri.github.io/images/robocup_2015.jpg)
+  - 3rd Place, RoboCup 2014, João Pessoa, Brazil, [link](https://farzadnadiri.github.io/images/robocup_2014.jpg)
+  - Championship, IranOpen International Competitions 2015, Tehran, [link](https://farzadnadiri.github.io/images/io_teen_2015.jpg)
+  - Championship, IranOpen International Competitions 2013, Tehran, [link](https://farzadnadiri.github.io/images/io_teen_2013.jpg)
+
+- RoboCup, Kid Size Humanoid
+  - 2nd Place, IranOpen International Competitions 2016, Tehran, [link](https://farzadnadiri.github.io/images/io_kid_2016.jpg)
+  - Championship, IranOpen International Competitions 2015, Tehran, [link](https://farzadnadiri.github.io/images/io_kid_2015.jpg)
+
+## Selected research and applied projects
+
+- **Autonomous driving perception and control**  
+  Developed and evaluated look ahead and look down camera configurations for lane detection, localization, and control strategies in CARLA, with a focus on robustness under different road geometries and conditions, and on metrics such as lateral error and stability.
+
+- **Bird’s Eye View based localization for humanoid robots**  
+  Designed sensor fusion methods that combine IMU and camera information with Bird’s Eye View projections to improve localization accuracy in humanoid soccer scenarios, implemented and released as open source code in the AccurateBirdEyeView repository.
+
+  - **Sober and drunk driver detection with multimodal data**  
+  Designed and trained classification models for real time driver sobriety detection using vehicle sensor and camera data, applying CNN and LSTM based architectures, feature engineering, and hyperparameter tuning to improve classification accuracy in a CARLA based simulation environment.
+
+- **Modular humanoid soccer software framework**  
+  Built a modular software stack for humanoid soccer robots, including vision, behavior, localization, and motion components, used on Teen Size and Kid Size platforms in RoboCup and IranOpen competitions.
+
+- **Legal assistant based on LLMs and RAG**  
+  Designed a privacy focused legal assistant for BC court and legal workflows, using LLMs and retrieval augmented generation, including legal document ingestion, retrieval and ranking pipelines, and evaluation of relevance and hallucinations, integrated into secure, production grade services.
+
+- **Telematics based insurance platform**  
+  Helped design and implement feature extraction pipelines from OBD2 and sensor data, modeling driver behavior and mileage for risk estimation and pricing in an IoT based car insurance product.
+
+- **Telemedicine and media streaming platforms**  
+  Designed and implemented a telemedicine platform with real time video consults and e prescriptions, used computer vision models to detect low quality video frames during teleconsultations, and helped build streaming and VOD pipelines using WebRTC, FFmpeg, and HLS.
+
+## Research experience
+
+- **Research Assistant**, Autonomous and Intelligent Systems Lab, SFU, Jun 2024 to Present, Vancouver, Canada  
+  Supervisor, Professor Ahmad Rad, [link](https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/faculty/faculty-members/arad.html)
+
+  - Formulate and study perception and control problems in autonomous driving, using look ahead and look down camera setups, with CARLA based experiments and quantitative evaluation
+  - Design and evaluate sensor fusion and localization algorithms for autonomous robots, combining camera, IMU, and other sensors, with a focus on robustness and accuracy
+  - Investigate decentralized swarm communication and collaborative decision making in multi agent systems, including communication protocols and coordination strategies
+  - Plan experiments, collect and analyze data, and maintain research code that can be adapted into production oriented prototypes
+
+- **Research Assistant**, Autonomous Robots Lab, Jan 2011 to May 2016, Tehran, Iran
+  - Designed and implemented the vision pipeline for object detection and tracking on humanoid robots, including color segmentation, feature extraction, and object classification
+  - Developed the soccer behavior layer with field localization, obstacle avoidance, and team tactics, connecting perception to decision making and motion control
+  - Implemented multi robot UDP communication for cooperation and coordination between agents, including message formats and synchronization strategies
+  - Built and maintained multithreaded modules, such as the omnidirectional bipedal walk engine, I and O, motion designer, and balance control components
+  - Contributed to building multiple 20 DOF humanoid platforms, Kid Size and Teen Size, used in international competitions
+
+## Work experience
+
+- **Senior Software and ML Engineer**, Quartech, Oct 2023 to Present, Vancouver, Canada
+
+  - Led AI digital pathology initiatives for PHSA, using foundation model fine tuning and multiple instance learning to support diagnostic workflows and improve accuracy and efficiency
+  - Built a privacy focused legal assistant using LLaMA based retrieval augmented generation tailored to the BC court system, including legal document ingestion, indexing and retrieval logic, and GPU accelerated deployment on dedicated servers
+  - Developed a scalable web based application for the BC Ministry of Education, facilitating ECE training and certification by integrating with government systems, ensuring compliance with accessibility and security standards, and streamlining workflows for users across the province
+
+- **Senior Software Engineer**, Pacific Blue Cross, Jan 2023 to Sep 2023, Vancouver, Canada
+
+  - Boosted the performance of a mapping software application serving more than one million users by about 25 percent through architectural refactoring and the integration of automated testing
+  - Enhanced scalability and reliability by improving monitoring, refining data access patterns, and collaborating with cross functional teams on incident response and performance tuning
+
+- **Founder and CTO**, RoboGarson, Dec 2021 to Dec 2022, Tehran, Iran
+
+  - Built a restaurant service robot using 3D point cloud localization for precise indoor navigation in dynamic environments, combining mapping, localization, and path planning
+  - Integrated perception, localization, and motion planning into a single robotic platform, iterated on algorithms based on deployment data and customer feedback, and evaluated performance in live restaurant pilots
+  - Led concept to deployment, including hardware decisions, embedded software, backend services, and coordination with pilot customers
+
+- **Software Engineering Team Lead**, Metalive, Jan 2021 to Dec 2022, Tehran, Iran
+
+  - Developed a multi role telemedicine platform with WebRTC video consultations and e prescriptions, including backend APIs, signaling, and front end integration
+  - Led the development of a business focused social networking platform using the Microsoft technology stack, Web APIs, SignalR, and integrated Android and web clients
+  - Coordinated with product and design teams to scope features, plan releases, and improve reliability and user experience based on usage metrics and feedback
+
+- **Senior Software Engineer**, Parsertebat, Jun 2016 to Dec 2020, Tehran, Iran
+  - Led the end to end design and development of a horse racing betting platform with eight modules, built from scratch, which grew to over 70,000 users and generated about 32 million dollars in revenue each year for the Equestrian Federation of Iran
+  - Developed and maintained server side software, monitoring dashboards, and embedded software for an IoT based car insurance solution that uses telematics and OBD2 data to derive driving behavior features and mileage based premiums
+  - Designed and implemented an end to end social media style application using ASP.NET MVC and AngularJS for stores to showcase and sell products, with a native Android client and SignalR based real time chat and notifications
 
 ## Certifications
 
-- Machine Learning Specialization [link](https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786)
-- Structuring Machine Learning Projects [link](https://coursera.org/share/611bf132c430828ca253cd9326d20e2d)
-- Improving Deep Neural Networks [link](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86)
-- Neural Networks and Deep Learning [link](https://coursera.org/share/c9823dffe232597e18a301cc77259f94)
-- Unsupervised Learning, Recommenders, and Reinforcement Learning [link](https://coursera.org/share/abe106fa9d91831501c14443d047922e)
-- Supervised Machine Learning, Regression, and Classification [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
-- Advanced Learning Algorithms [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
-- International Spring School on humanoid soccer robots [link](https://farzadnadiri.github.io/images/humanoid_school.jpg)
+- Machine Learning Specialization, [link](https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786)
+- Structuring Machine Learning Projects, [link](https://coursera.org/share/611bf132c430828ca253cd9326d20e2d)
+- Improving Deep Neural Networks, [link](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86)
+- Neural Networks and Deep Learning, [link](https://coursera.org/share/c9823dffe232597e18a301cc77259f94)
+- Unsupervised Learning, Recommenders, and Reinforcement Learning, [link](https://coursera.org/share/abe106fa9d91831501c14443d047922e)
+- Supervised Machine Learning, Regression, and Classification, [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
+- Advanced Learning Algorithms, [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
+- International Spring School on humanoid soccer robots, [link](https://farzadnadiri.github.io/images/humanoid_school.jpg)
 
-## Journals Reviewer
+## Journal reviewing
 
-- Nature (Scientific Reports) — Aug 2025–Present, Vancouver, Canada [link](https://www.nature.com/srep)
-- Springer (Computational Intelligence Systems) — Sep 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/44196)
-- Springer (Cognitive Computation) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/12559)
-- Springer (Supercomputing) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/11227)
-- Springer (Discover Applied Sciences) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/42452)
-- Springer (Discover Artificial Intelligence) — Feb 2025–Present, Vancouver, Canada [link](https://link.springer.com/journal/44163)
-- International Journal of Humanoid Robotics — Aug 2025–Present, Vancouver, Canada [link](https://www.worldscientific.com/worldscinet/IJHR)
-- COJ Robotics & Artificial Intelligence (COJRA) — Jul 2025–Present, Vancouver, Canada [link](https://access.portico.org/Portico/loviView?cs=ISSN_28324463_1848&content=E-Journal%20Content)
+- Nature, Scientific Reports, Aug 2025 to Present, Vancouver, Canada, [link](https://www.nature.com/srep)
+- Springer, Computational Intelligence Systems, Sep 2025 to Present, Vancouver, Canada, [link](https://link.springer.com/journal/44196)
+- Springer, Cognitive Computation, Feb 2025 to Present, Vancouver, Canada, [link](https://link.springer.com/journal/12559)
+- Springer, Supercomputing, Feb 2025 to Present, Vancouver, Canada, [link](https://link.springer.com/journal/11227)
+- Springer, Discover Applied Sciences, Feb 2025 to Present, Vancouver, Canada, [link](https://link.springer.com/journal/42452)
+- Springer, Discover Artificial Intelligence, Feb 2025 to Present, Vancouver, Canada, [link](https://link.springer.com/journal/44163)
+- International Journal of Humanoid Robotics, Aug 2025 to Present, Vancouver, Canada, [link](https://www.worldscientific.com/worldscinet/IJHR)
+- COJ Robotics and Artificial Intelligence, COJRA, Jul 2025 to Present, Vancouver, Canada, [link](https://access.portico.org/Portico/loviView?cs=ISSN_28324463_1848&content=E-Journal%20Content)
 
 ## Volunteering
 
-- Teaching Assistant, Azad University — Apr 2011–Jun 2012, Tehran, Iran
+- Teaching Assistant, Azad University, Apr 2011 to Jun 2012, Tehran, Iran
