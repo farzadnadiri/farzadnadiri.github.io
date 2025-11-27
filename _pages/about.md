@@ -30,12 +30,11 @@ Let us connect and build something impactful together.
 
 ## Technical skills
 
-- Languages, Python, C#, JAVA, C++, SQL, TypeScript
-- ML and data, machine learning, deep learning, computer vision, NLP, classical ML, NumPy, Pandas, scikit learn, OpenCV
-- Frameworks, PyTorch, ONNX, Hugging Face Transformers, LangChain, LangGraph, experimentation and evaluation tooling
-- Platforms, .NET, FastAPI, REST APIs, microservices, Azure, AWS, AWS SageMaker, Azure ML, Docker, Kubernetes, CI/CD, Terraform
-- Applied domains, LLMs and AI agents, computer vision and perception, autonomous systems, telematics and behavior modeling, large scale web and cloud applications
-
+- Languages: Python, C#, JAVA, C++, TypeScript, SQL
+- ML and data: machine learning, deep learning, computer vision, NLP, classical ML, NumPy, Pandas, scikit learn, OpenCV
+- Frameworks: PyTorch, ONNX, Hugging Face Transformers, LangChain, LangGraph, experimentation and evaluation tooling
+- Platforms: .NET, FastAPI, REST APIs, microservices, Azure, AWS, AWS SageMaker, Azure ML, Docker, Kubernetes, CI/CD, Terraform
+- Applied domains: LLMs and AI agents, computer vision and perception, autonomous systems, telematics and behavior modeling, large scale web and cloud applications
 
 ## Education
 
@@ -72,10 +71,7 @@ Let us connect and build something impactful together.
 - **Autonomous driving perception and control**  
   Developed and evaluated look ahead and look down camera configurations for lane detection, localization, and control strategies in CARLA, with a focus on robustness under different road geometries and conditions, and on metrics such as lateral error and stability.
 
-- **Bird’s Eye View based localization for humanoid robots**  
-  Designed sensor fusion methods that combine IMU and camera information with Bird’s Eye View projections to improve localization accuracy in humanoid soccer scenarios, implemented and released as open source code in the AccurateBirdEyeView repository.
-
-  - **Sober and drunk driver detection with multimodal data**  
+- **Sober and drunk driver detection with multimodal data**  
   Designed and trained classification models for real time driver sobriety detection using vehicle sensor and camera data, applying CNN and LSTM based architectures, feature engineering, and hyperparameter tuning to improve classification accuracy in a CARLA based simulation environment.
 
 - **Modular humanoid soccer software framework**  
@@ -83,9 +79,6 @@ Let us connect and build something impactful together.
 
 - **Legal assistant based on LLMs and RAG**  
   Designed a privacy focused legal assistant for BC court and legal workflows, using LLMs and retrieval augmented generation, including legal document ingestion, retrieval and ranking pipelines, and evaluation of relevance and hallucinations, integrated into secure, production grade services.
-
-- **Telematics based insurance platform**  
-  Helped design and implement feature extraction pipelines from OBD2 and sensor data, modeling driver behavior and mileage for risk estimation and pricing in an IoT based car insurance product.
 
 - **Telemedicine and media streaming platforms**  
   Designed and implemented a telemedicine platform with real time video consults and e prescriptions, used computer vision models to detect low quality video frames during teleconsultations, and helped build streaming and VOD pipelines using WebRTC, FFmpeg, and HLS.
@@ -119,12 +112,6 @@ Let us connect and build something impactful together.
 
   - Boosted the performance of a mapping software application serving more than one million users by about 25 percent through architectural refactoring and the integration of automated testing
   - Enhanced scalability and reliability by improving monitoring, refining data access patterns, and collaborating with cross functional teams on incident response and performance tuning
-
-- **Founder and CTO**, RoboGarson, Dec 2021 to Dec 2022, Tehran, Iran
-
-  - Built a restaurant service robot using 3D point cloud localization for precise indoor navigation in dynamic environments, combining mapping, localization, and path planning
-  - Integrated perception, localization, and motion planning into a single robotic platform, iterated on algorithms based on deployment data and customer feedback, and evaluated performance in live restaurant pilots
-  - Led concept to deployment, including hardware decisions, embedded software, backend services, and coordination with pilot customers
 
 - **Software Engineering Team Lead**, Metalive, Jan 2021 to Dec 2022, Tehran, Iran
 
