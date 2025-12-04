@@ -113,17 +113,6 @@ Let us connect and build something impactful together.
   - Boosted the performance of a mapping software application serving more than one million users by about 25 percent through architectural refactoring and the integration of automated testing
   - Enhanced scalability and reliability by improving monitoring, refining data access patterns, and collaborating with cross functional teams on incident response and performance tuning
 
-- **Software Engineering Team Lead**, Metalive, Jan 2021 to Dec 2022, Tehran, Iran
-
-  - Developed a multi role telemedicine platform with WebRTC video consultations and e prescriptions, including backend APIs, signaling, and front end integration
-  - Led the development of a business focused social networking platform using the Microsoft technology stack, Web APIs, SignalR, and integrated Android and web clients
-  - Coordinated with product and design teams to scope features, plan releases, and improve reliability and user experience based on usage metrics and feedback
-
-- **Senior Software Engineer**, Parsertebat, Jun 2016 to Dec 2020, Tehran, Iran
-  - Led the end to end design and development of a horse racing betting platform with eight modules, built from scratch, which grew to over 70,000 users and generated about 32 million dollars in revenue each year for the Equestrian Federation of Iran
-  - Developed and maintained server side software, monitoring dashboards, and embedded software for an IoT based car insurance solution that uses telematics and OBD2 data to derive driving behavior features and mileage based premiums
-  - Designed and implemented an end to end social media style application using ASP.NET MVC and AngularJS for stores to showcase and sell products, with a native Android client and SignalR based real time chat and notifications
-
 ## Certifications
 
 - Machine Learning Specialization, [link](https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786)
