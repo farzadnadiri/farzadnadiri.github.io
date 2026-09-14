@@ -188,6 +188,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Fail the build on malformed YAML front matter instead of silently
+# dropping the page and shipping a site with a missing URL.
+strict_front_matter: true
+
 # Conversion
 markdown: kramdown
 highlighter: rouge

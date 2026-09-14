@@ -1,5 +1,6 @@
 ---
-permalink: /title: "Farzad Nadiri - Perception & Physical AI"
+permalink: /
+title: "Farzad Nadiri - Perception & Physical AI"
 author_profile: true
 classes: wide
 redirect_from:
