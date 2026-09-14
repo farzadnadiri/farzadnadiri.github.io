@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Farzad Nadiri"
 title_separator: "-"
 name: &name "Farzad Nadiri"
-description: &description "Software and Robotics Engineer — AI, Computer Vision, Autonomous Systems"
+description: &description "Perception & Physical AI | Autonomous Driving & Robotics | 3D Detection, Tracking & Sensor Fusion | PhD Researcher @ SFU"
 url: https://farzadnadiri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "farzadnadiri/farzadnadiri.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar: "profile.jpg"
   name: "Farzad Nadiri"
-  pronouns: # example: "she/her"
-  bio: "Software and robotics engineer focused on AI, computer vision, and autonomous systems."
+  pronouns: "he/his"
+  bio: "Perception & Physical AI | Autonomous Driving & Robotics | 3D Detection, Tracking & Sensor Fusion | PhD Researcher @ SFU"
   location: "Vancouver, Canada"
   employer: "Simon Fraser University"
   uri: # URL
-  email: "Farzad_nadiri@sfu.ca"
+  email: "farzadnadiri7@gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
@@ -76,10 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: "Books"
   manuscripts:
     title: "Journal Articles"
+  preprints:
+    title: "Under Review"
   conferences:
     title: "Team Description Papers"
 
