@@ -43,6 +43,8 @@
         {% elsif post.collection == 'publications' %}
           {% if post.category == 'preprints' %}
             <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+          {% elsif post.category == 'inprep' %}
+            <p>Manuscript in preparation{% if post.venue %}, target venue <i>{{ post.venue }}</i>{% endif %}, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
           {% else %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}

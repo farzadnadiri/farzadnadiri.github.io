@@ -12,7 +12,7 @@ Hi there 👋 I am Farzad,
 
 I am a perception and physical AI engineer with a PhD research track in autonomous driving at Simon Fraser University and more than a decade of shipping production software. I build bird's eye view camera perception, IMU and camera sensor fusion for localization, and vision based lateral control, validated both in CARLA and on physical robots.
 
-I like turning research into systems that actually run. Alongside my research I architect large scale ML inference pipelines on AWS SageMaker, and earlier in my career I worked in the team that won the RoboCup 2015 Teen Size humanoid world championship. I enjoy working end to end, from data and modeling to deployment and monitoring, and I care about clear communication, collaboration, and measurable outcomes.
+I like turning research into systems that actually run. Alongside my research I architect large scale ML inference pipelines on AWS SageMaker, and earlier in my career I won the RoboCup 2015 Teen Size humanoid world championship with Team Parand. I enjoy working end to end, from data and modeling to deployment and monitoring, and I care about clear communication, collaboration, and measurable outcomes.
 
 Let us connect and build something impactful together!
 
@@ -86,13 +86,11 @@ Let us connect and build something impactful together!
 - **Research Assistant**, Autonomous Robots Lab, Team Parand, Jan 2011 to May 2016, Tehran, Iran  
   Kid Size (50 cm) and Teen Size (100 cm) 20 DOF humanoid robots, built from scratch
 
-- Designed and implemented the vision pipeline for object detection and tracking on humanoid robots, including color segmentation, feature extraction, and object classification.
+  - Designed and implemented the vision pipeline for object detection and tracking on humanoid robots, including color segmentation, feature extraction, and object classification
+  - Developed the soccer behavior layer with field localization, obstacle avoidance, and team tactics, connecting perception to decision making and motion control
+  - Implemented multi robot UDP communication for cooperation and coordination between agents, including message formats and synchronization strategies
+  - Built and maintained multithreaded modules, such as the omnidirectional bipedal walk engine, I and O, motion designer, and balance control components
 
-- Developed the soccer behavior layer with field localization, obstacle avoidance, and team tactics, connecting perception to decision making and motion control.
-
-- Implemented multi robot UDP communication for cooperation and coordination between agents, including message formats and synchronization strategies.
-
-- Built and maintained multithreaded modules, such as the omnidirectional bipedal walk engine, I and O, motion designer, and balance control components.
 ## Selected projects and code
 
 - **DriveMCP, agentic driver assistance**  
@@ -102,7 +100,7 @@ Let us connect and build something impactful together!
   Open source Model Context Protocol server for live CAN and OBD-II decoding with cantools, including a virtual CAN backend and a multi ECU simulator so it runs with no hardware attached, [Code](https://github.com/farzadnadiri/MCP-CAN)
 
 - **DriverStateNet, multimodal driver impairment classification**  
-  Four class driver state classifier over the Toyota Research Institute Impaired Driving Dataset, fusing gaze, vehicle dynamics, and video with a temporal transformer and cross attention fusion, synchronized to 10 Hz with explicit missingness encoding and evaluated by UAR under subject wise folds, [Code](https://github.com/farzadnadiri/DriverStateNet)
+  Four class driver state classifier over the Toyota Research Institute Impaired Driving Dataset, fusing gaze, vehicle dynamics, and video with a temporal transformer and cross attention fusion, synchronized to 10 Hz with explicit missingness encoding and evaluated by UAR under subject wise folds. Manuscript in preparation, [Code](https://github.com/farzadnadiri/DriverStateNet)
 
 - **Look down lane perception and lateral control**  
   Homography based bird's eye view lane perception and lateral control for autonomous vehicles, evaluated in CARLA across uphill, downhill, and curved road geometry where look ahead configurations lose accuracy, [Paper](https://www.mdpi.com/2075-1702/13/3/211)
@@ -155,19 +153,11 @@ Let us connect and build something impactful together!
 - International Journal of Humanoid Robotics, Aug 2025 to Jan 2026, Vancouver, Canada, [link](https://www.worldscientific.com/worldscinet/IJHR)
 - COJ Robotics and Artificial Intelligence, COJRA, Jul 2025 to Jan 2026, Vancouver, Canada, [link](https://access.portico.org/Portico/loviView?cs=ISSN_28324463_1848&content=E-Journal%20Content)
 
-## Certifications
+## Certifications and training
 
-- PyTorch: Fundamentals, [link](https://coursera.org/share/407bdacac3092e1240aa0163b8cc9987)
-- Hyperparameter Tuning, Regularization and Optimization, [link](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86)
-- Machine Learning Specialization, [link](https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786)
-- Structuring Machine Learning Projects, [link](https://coursera.org/share/611bf132c430828ca253cd9326d20e2d)
-- Improving Deep Neural Networks, [link](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86)
-- Neural Networks and Deep Learning, [link](https://coursera.org/share/c9823dffe232597e18a301cc77259f94)
-- Unsupervised Learning, Recommenders, and Reinforcement Learning, [link](https://coursera.org/share/abe106fa9d91831501c14443d047922e)
-- Convolutional Neural Networks, [link](https://coursera.org/share/fa16eec8c25de902a78fdb43981fd024)
-- Supervised Machine Learning, Regression, and Classification, [link](https://coursera.org/share/2dfdfa80f779f3a0ef5b43763a6087dc)
-- Advanced Learning Algorithms, [link](https://coursera.org/share/d22d27147e47722a77b9c263b2dc61d3)
-- International Spring School on humanoid soccer robots, [link](https://farzadnadiri.github.io/images/humanoid_school.jpg)
+- **Machine Learning Specialization**, Stanford Online and DeepLearning.AI, Coursera, [link](https://coursera.org/share/0a31b713130f0f45668cf8692ee5c786)
+- **Deep Learning Specialization**, DeepLearning.AI, Coursera, [Neural Networks and Deep Learning](https://coursera.org/share/c9823dffe232597e18a301cc77259f94), [Improving Deep Neural Networks](https://coursera.org/share/cd6fff206a940286d4c91cbb7d124b86), [Structuring Machine Learning Projects](https://coursera.org/share/611bf132c430828ca253cd9326d20e2d), [Convolutional Neural Networks](https://coursera.org/share/fa16eec8c25de902a78fdb43981fd024)
+- **International Spring School on Humanoid Soccer Robots**, [link](https://farzadnadiri.github.io/images/humanoid_school.jpg)
 
 ## Volunteering
 
