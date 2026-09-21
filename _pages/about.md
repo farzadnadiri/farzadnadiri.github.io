@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Farzad Nadiri - Perception & Physical AI"
+title: "Farzad Nadiri - Applied Scientist"
 author_profile: true
 classes: wide
 redirect_from:
@@ -10,9 +10,11 @@ redirect_from:
 
 Hi there 👋 I am Farzad,
 
-I am a perception and physical AI engineer with a PhD research track in autonomous driving at Simon Fraser University and more than a decade of shipping production software. I build bird's eye view camera perception, IMU and camera sensor fusion for localization, and vision based lateral control, validated both in CARLA and on physical robots.
+I'm an applied scientist working where perception meets language models, with a PhD research track in autonomous driving at Simon Fraser University and more than a decade of shipping production software.
 
-I like turning research into systems that actually run. Alongside my research I architect large scale ML inference pipelines on AWS SageMaker, and earlier in my career I won the RoboCup 2015 Teen Size humanoid world championship with Team Parand. I enjoy working end to end, from data and modeling to deployment and monitoring, and I care about clear communication, collaboration, and measurable outcomes.
+On the perception side, I build bird's-eye-view camera perception, IMU and camera sensor fusion for localization, and vision-based lateral control, validated both in CARLA and on physical robots. On the language side, I built DriveMCP, an agentic multimodal driver-assistance system on the Model Context Protocol with retrieval-grounded reasoning and a guardrail that decides when the system may act versus only advise, and a speech and LLM transcription system deployed in BC's court system.
+
+I like turning research into systems that actually run. At work I architect large-scale ML inference pipelines on AWS SageMaker, and earlier in my career I won the RoboCup 2015 TeenSize humanoid world championship with Team Parand. I work end to end, from data and modeling to deployment and monitoring, and I like measuring a system against a real baseline before trusting it.
 
 Let us connect and build something impactful together!
 
@@ -60,16 +62,6 @@ Let us connect and build something impactful together!
 
   - Raised throughput of a data mapping platform serving one million users by about 25 percent through service oriented architectural refactoring and automated test coverage, and authored migration tooling across legacy databases
   - Enhanced scalability and reliability by improving monitoring, refining data access patterns, and collaborating with cross functional teams on incident response and performance tuning
-
-- **Software Engineering Team Lead**, Metalive, Dec 2020 to Dec 2022, Tehran, Iran
-
-  - Led a team delivering a multi role WebRTC telemedicine platform during COVID-19, with peer to peer video consultations, scheduling, and electronic prescriptions, and owned the architecture and release process
-  - Applied computer vision models to detect low quality video frames during teleconsultations, and contributed to streaming and VOD pipelines built on WebRTC, FFmpeg, and HLS
-
-- **Software Engineer**, Parsertebat, Jun 2016 to Dec 2020, Tehran, Iran
-
-  - Built server side, monitoring, and embedded software for an OBD-II and IoT telematics product that fused vehicle bus and auxiliary sensor streams to characterize driving behavior and price usage based insurance premiums
-  - Led design and development of a high traffic wagering platform from scratch, growing it to more than 70k users and 32M dollars in annual revenue under peak event load
 
 ## Research experience
 

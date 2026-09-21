@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Farzad Nadiri"
 title_separator: "-"
 name: &name "Farzad Nadiri"
-description: &description "Perception & Physical AI | Autonomous Driving & Robotics | 3D Detection, Tracking & Sensor Fusion | PhD Researcher @ SFU"
+description: &description "Applied Scientist | Perception, Multimodal LLMs & Agentic AI | Autonomous Driving & Robotics | PhD Researcher @ SFU"
 url: https://farzadnadiri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "farzadnadiri/farzadnadiri.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar: "profile.jpg"
   name: "Farzad Nadiri"
-  pronouns: "he/his"
+  pronouns: #
   bio: "Perception & Physical AI | Autonomous Driving & Robotics | 3D Detection, Tracking & Sensor Fusion | PhD Researcher @ SFU"
   location: "Vancouver, Canada"
   employer: "Simon Fraser University"
