@@ -6,7 +6,7 @@ permalink: /publication/2026-drivemcp-agentic-driver-assistance
 excerpt: "Decomposes a monolithic vision-language driving assistant into specialized Model Context Protocol expert servers, coordinated by a stateful orchestration graph and gated by an RSS and TTC safety arbiter."
 date: 2026-02-27
 venue: "IEEE Transactions on Intelligent Vehicles"
-paperurl:
+paperurl: https://arxiv.org/pdf/2609.17247
 citation: 'Nadiri, F., & Rad, A. B. (2026, under review). "DriveMCP: An MCP-Powered Agentic Driver Assistance System." IEEE Transactions on Intelligent Vehicles.'
 ---
 

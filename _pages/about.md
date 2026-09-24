@@ -34,7 +34,7 @@ Let us connect and build something impactful together!
 ## Core skills
 
 - **Perception and sensor fusion**: 2D and 3D detection and tracking, semantic scene understanding, camera calibration, homography and bird's eye view transforms, IMU and camera fusion, 3D point cloud localization, lane and obstacle perception, multi rate sensor synchronization, CARLA, CAN and OBD-II with DBC decoding
-- **Deep learning**: PyTorch, CNNs, Vision Transformers, temporal transformers, cross attention multimodal fusion, vision foundation models, vision language models, LLMs and RAG, class imbalanced evaluation with UAR, subject wise cross validation, ablation design
+- **Deep learning**: PyTorch, CNNs, Vision Transformers, temporal transformers, cross attention multimodal fusion, vision foundation models, vision language models, LLMs and RAG, subject wise cross validation
 - **Production ML and infrastructure**: AWS SageMaker for training, batch inference and endpoints, MLflow tracking and model registry, S3, large scale image and sensor log pipelines, dataset curation, automated label QC and scoring, Docker, GitHub Actions CI/CD, CUDA and GPU serving, vLLM, Azure ML, OpenShift AI
 - **Languages and tooling**: Python, C#, C, C++, TypeScript, Java, SQL, NumPy, Pandas, OpenCV, Hugging Face Transformers, python-can, cantools, pytest, ruff and mypy, Git
 
@@ -44,10 +44,14 @@ Let us connect and build something impactful together!
 
   *Digital pathology quality control AI, Provincial Health Services Authority*
 
-  - Led the AI solution for an offline, cloud scale visual inspection pipeline over gigapixel imagery on AWS SageMaker, covering S3 ingestion, tiling, embedding extraction with transformer based vision foundation models, batched inference orchestration, result aggregation, and QC scoring
-  - Benchmarked two pathology foundation models against lightweight and fine tuned classification heads on accuracy, throughput, and cost, quantifying cross scanner generalization before committing to a production configuration
-  - Defined tile level quality metrics and automated scoring to measure generated label quality against expert review, and built coverage aware heatmap overlays so model output stayed interpretable and auditable for reviewers at scale
-  - Stood up MLflow experiment tracking and a model registry around SageMaker training jobs so runs, datasets, and artifacts stayed reproducible, and models were promoted through a versioned registry rather than ad hoc checkpoints
+  - Led the AI solution for automated quality control of whole-slide pathology images for PHSA, flagging low-quality scans before they reach pathologists: gigapixel tiling and embedding extraction with a frozen pathology foundation model on AWS SageMaker.
+  
+  - Built a class-weighted logistic-regression baseline on pooled slide embeddings, using a threshold sweep to set the operating point, then an attention-based multiple instance learning (MIL) model over up to 1,500 tiles per slide so small, localized defects are not diluted by averaging; on a held-out test set of slides, MIL reached 0.97 ROC-AUC and 93% accuracy, catching 90% of failing slides at 88% precision.
+  
+  - Turned MIL attention, weighted by each slide's failure probability, into smoothed heatmap overlays so pathologists can see which regions drove a FAIL decision.
+  
+  - Stood up MLflow experiment tracking and a model registry around SageMaker training jobs so runs, datasets and artifacts stayed reproducible, and models were promoted through a versioned registry.
+
 
   *Court session transcription AI, BC Court Systems*
 
@@ -61,6 +65,7 @@ Let us connect and build something impactful together!
 - **Senior Software Engineer**, Pacific Blue Cross, Jan 2023 to Jul 2023, Vancouver, Canada
 
   - Raised throughput of a data mapping platform serving one million users by about 25 percent through service oriented architectural refactoring and automated test coverage, and authored migration tooling across legacy databases
+  
   - Enhanced scalability and reliability by improving monitoring, refining data access patterns, and collaborating with cross functional teams on incident response and performance tuning
 
 ## Research experience
@@ -68,12 +73,7 @@ Let us connect and build something impactful together!
 - **Research Assistant**, Autonomous and Intelligent Systems Lab, SFU, May 2024 to Present, Vancouver, Canada  
   Supervisor, Professor Ahmad B. Rad, [link](https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/faculty/faculty-members/arad.html)
 
-  - Built DriveMCP, an agentic driver assistance architecture that decomposes a monolithic vision language driving assistant into specialized experts exposed as Model Context Protocol servers, covering traffic rule retrieval, weather and traction reasoning, and CAN and OBD vehicle health, coordinated by a stateful orchestration graph at sub second advisory latency
-  - Grounded it in a CARLA camera and LiDAR perception stack with RGB detection, range refinement, and Kalman tracking, feeding a typed world state with per field confidence, gated through an RSS and TTC based safety arbiter, and evaluated against VLM direct, RAG, and no arbiter baselines under injected perception and CAN faults
-  - Open sourced MCP-CAN, the telemetry server in this stack, with live CAN and OBD-II decoding via cantools, a virtual CAN backend, and a multi ECU simulator so it runs without hardware
-  - Built a four class driver impairment classifier on the Toyota Research Institute Impaired Driving Dataset, fusing gaze, vehicle dynamics, and video through a temporal transformer with cross attention fusion, with multi rate synchronization to 10 Hz, explicit missingness encoding, and UAR reported under subject wise folds
-  - Designed and published a look down lane perception and lateral control system using a homography based bird's eye view transform, holding accuracy on uphill, downhill, and curved geometry where look ahead methods degrade
-  - Developed an IMU and camera sensor fusion localization method that compensates perspective distortion under body tilt, reducing position estimation error in landmark sparse environments and on physical hardware
+  - Built DriveMCP, an agentic driver assistance architecture that decomposes a monolithic vision language driving assistant into specialized experts exposed as Model Context Protocol servers, covering traffic rule retrieval, weather and traction reasoning, and CAN and OBD vehicle health, coordinated by a stateful orchestration graph at sub second advisory latency.
 
 - **Research Assistant**, Autonomous Robots Lab, Team Parand, Jan 2011 to May 2016, Tehran, Iran  
   Kid Size (50 cm) and Teen Size (100 cm) 20 DOF humanoid robots, built from scratch
@@ -85,23 +85,20 @@ Let us connect and build something impactful together!
 
 ## Selected projects and code
 
-- **DriveMCP, agentic driver assistance**  
-  An MCP powered architecture that splits a vision language driving assistant into specialized expert servers behind a stateful orchestration graph, grounded in a CARLA camera and LiDAR perception stack and gated by an RSS and TTC safety arbiter. Under review at IEEE Transactions on Intelligent Vehicles.
-
 - **MCP-CAN, vehicle telemetry over MCP**  
   Open source Model Context Protocol server for live CAN and OBD-II decoding with cantools, including a virtual CAN backend and a multi ECU simulator so it runs with no hardware attached, [Code](https://github.com/farzadnadiri/MCP-CAN)
 
 - **DriverStateNet, multimodal driver impairment classification**  
   Four class driver state classifier over the Toyota Research Institute Impaired Driving Dataset, fusing gaze, vehicle dynamics, and video with a temporal transformer and cross attention fusion, synchronized to 10 Hz with explicit missingness encoding and evaluated by UAR under subject wise folds. Manuscript in preparation, [Code](https://github.com/farzadnadiri/DriverStateNet)
 
-- **Look down lane perception and lateral control**  
-  Homography based bird's eye view lane perception and lateral control for autonomous vehicles, evaluated in CARLA across uphill, downhill, and curved road geometry where look ahead configurations lose accuracy, [Paper](https://www.mdpi.com/2075-1702/13/3/211)
+- **Look down lane perception and lateral control** 
+  Homography-based bird’s-eye-view lane perception and lateral control for autonomous vehicles using a dual-camera look-down configuration, evaluated in CARLA across curved, uphill, downhill, and narrow-road scenarios., [Paper](https://www.mdpi.com/2075-1702/13/3/211), [Code1](https://github.com/farzadnadiri/LookDownLaneDetection), [Code2](https://github.com/farzadnadiri/ImuBasedLookAhead)
 
 - **IMU and camera fusion for localization**  
   Sensor fusion method that compensates perspective distortion under body tilt to improve position estimation in landmark sparse environments, validated on physical humanoid hardware, [Paper](https://link.springer.com/article/10.1007/s41315-025-00451-5), [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
 
 - **Modular humanoid soccer software framework**  
-  Modular software stack for humanoid soccer robots covering vision, behavior, localization, and motion, used on Teen Size and Kid Size platforms in RoboCup and IranOpen competitions, [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
+  Modular software stack for humanoid soccer robots covering vision, behavior, localization, and motion, used on Teen Size and Kid Size platforms in RoboCup and IranOpen competitions, [Report](https://archive.robocup.info/Soccer/Humanoid/TeenSize/TDPs/RoboCup/2015/Team_Parand_HL-Teen_RC2015_TDP.pdf), [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
 
 ## Education
 
@@ -109,15 +106,14 @@ Let us connect and build something impactful together!
   Research, perception and control for autonomous systems, sensor fusion and localization, agentic architectures for driver assistance, simulation to real validation using CARLA and physical platforms
 
 - M.Sc., Computer Science, AI and Robotics, Science and Research University, 2020, Tehran, Iran  
-  Thesis, A Fusion of Inertial Measurement Unit Data and Bird's Eye View Perspectives, focused on improving localization accuracy through sensor fusion, Best Master Thesis Award, [Code](https://github.com/farzadnadiri/AccurateBirdEyeView)
+  Thesis, A Fusion of Inertial Measurement Unit Data and Bird's Eye View Perspectives, focused on improving localization accuracy through sensor fusion, Best Master Thesis Award
 
 - B.Eng., Information Technology, Azad University, Parand Branch, 2014, Tehran, Iran  
-  Final project, Modular Software Framework for Humanoid Soccer Robots, including perception, behavior, localization, and motion modules, [Code](https://github.com/farzadnadiri/HumanoidSoccerRobot)
+  Final project, Modular Software Framework for Humanoid Soccer Robots, including perception, behavior, localization, and motion modules
 
 ## Honors and awards
 
 - Special Graduate Dean's Entrance Scholarship, Simon Fraser University, 44k CAD
-- RoboCup 2015 Teen Size World Champion
 - Supported by the National Elites Foundation of Iran, 2020 to 2022
 - Best Master Thesis Award, Science and Research University, 2020
 - Best Student Research Award, four consecutive years, Research Week, 2011 to 2015, Tehran, Iran
